@@ -6,5 +6,5 @@ This repository contains a collection of JavaScript drills covering various topi
 
 The repository covers the following topics:
 
-- Topic 1: [Array Methods](./arrayMethods)
+- Topic 1: [Array Methods](./arrayMethods), Done on 21/7/2024
 - ...
