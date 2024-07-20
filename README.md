@@ -1,6 +1,6 @@
 # JavaScript Drills Repository
 
-This repository contains a collection of JavaScript drills covering various topics. Each drill is organized in a separate folder, and the name of the folder represents the topic of the drill.
+This repository serves as a log for my JavaScript practice drills. Each drill is organized in a separate folder, and the name of the folder represents the topic of the drill.
 
 ## Topics Covered
 
